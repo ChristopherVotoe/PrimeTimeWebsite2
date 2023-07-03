@@ -1,0 +1,64 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  font-size: 16px;
+}
+.w3-half img {
+  margin-bottom: -6px;
+  margin-top: 16px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+.w3-half img:hover {
+  opacity: 1;
+}
+.color{
+    background-color: #e92428;
+    color: white;
+}
+.color1{
+    color: #e92428;
+}
+.Contact_form {
+    max-width: 100%;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .Contact_form input,
+  .Contact_form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .Contact_form button {
+    background-color: #e92428;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .Contact_form button:hover {
+    background-color: #e92428;
+  }
+  
+  .Contact_form input:focus,
+  .Contact_form textarea:focus {
+    outline: none;
+    border-color: #e92428;
+  }
+  
