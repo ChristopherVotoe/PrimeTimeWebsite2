@@ -65,3 +65,8 @@ body {
   li{
     list-style-type: disc;
   }
+  #map { 
+    height: 300px; 
+    width: 300px;
+    
+  }
