@@ -62,3 +62,6 @@ body {
     outline: none;
     border-color: #e92428;
   }
+  li{
+    list-style-type: disc;
+  }
